@@ -1,0 +1,33 @@
+{
+  "name": "hft-local",
+  "version": "0.0.1",
+  "authors": [
+    "Gregg Tavares <github@greggman.com>"
+  ],
+  "description": "Helps run a HappyFunTimes game without HappyFunTimes (no networking)",
+  "main": "dist/whatisthisfor.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "games",
+    "happy",
+    "HappyFunTimes"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/greggman/hft-local",
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json",
+    "node_modules",
+    "docs",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
